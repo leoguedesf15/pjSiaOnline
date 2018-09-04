@@ -1,0 +1,10 @@
+.formulario{
+    width:30%;
+    box-shadow: 1px 1px 15px black;
+    margin: 0 auto;
+    margin-top:50px;
+    padding: 10px;
+}
+.formulario div.alert{
+    margin-top:10px;
+}
